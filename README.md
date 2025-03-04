@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend (MERN) and DSA**
 
-- 🤝 I’m looking for help with **new Projects and Internship**
+- 🤝 I’m looking for  **new Projects and Internship**
 
 - 👨‍💻 All of my projects are available at [http://portfolioarpankhare.netlify.app](http://portfolioarpankhare.netlify.app)
 
