@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Khare</h1>
 <h3 align="center">"Passionate web developer with a problem-solving mindset and a love for innovative technology. I build scalable, user-friendly solutions that enhance digital experiences."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpankhare-63&label=Profile%20views&color=0e75b6&style=flat" alt="arpankhare-63" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpankhare-63" alt="arpankhare-63" /></a> </p>
 
 - 🔭 I’m currently working on **multiple projects**
 
